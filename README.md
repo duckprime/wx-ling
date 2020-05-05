@@ -11,10 +11,10 @@
 歌手详情等功能。
 
 # 下面是效果图
-！[image](https://github.com/duckprime/wx-ling/blob/master/wx-ling/1.png)
-！[image](https://github.com/duckprime/wx-ling/blob/master/wx-ling/2.png)
-！[image](https://github.com/duckprime/wx-ling/blob/master/wx-ling/3.png)
-！[image](https://github.com/duckprime/wx-ling/blob/master/wx-ling/4.png)
-！[image](https://github.com/duckprime/wx-ling/blob/master/wx-ling/5.png)
+! [image](https://github.com/duckprime/wx-ling/blob/master/wx-ling/1.png)
+! [image](https://github.com/duckprime/wx-ling/blob/master/wx-ling/2.png)
+! [image](https://github.com/duckprime/wx-ling/blob/master/wx-ling/3.png)
+! [image](https://github.com/duckprime/wx-ling/blob/master/wx-ling/4.png)
+! [image](https://github.com/duckprime/wx-ling/blob/master/wx-ling/5.png)
 
 
